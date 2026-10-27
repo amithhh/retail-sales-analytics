@@ -1,0 +1,82 @@
+
+== monthly_revenue ==
+   month    revenue    profit  margin_pct
+2024-01 10043058.0 1075507.0        10.7
+2024-02  8228846.0  779400.0         9.5
+2024-03 10599526.0  953410.0         9.0
+2024-04  9020295.0  823389.0         9.1
+2024-05 10019847.0 1035690.0        10.3
+2024-06  8725367.0  834135.0         9.6
+2024-07  8910037.0  753724.0         8.5
+2024-08  9407987.0  781489.0         8.3
+2024-09  8276363.0  850441.0        10.3
+2024-10 13056728.0 1167426.0         8.9
+2024-11 12876861.0 1469592.0        11.4
+2024-12 12864167.0 1244091.0         9.7
+2025-01  8247005.0  930552.0        11.3
+2025-02  9480292.0  840085.0         8.9
+2025-03  7723176.0  718155.0         9.3
+2025-04 10106956.0 1081226.0        10.7
+2025-05  8838639.0  863489.0         9.8
+2025-06  7603316.0  723233.0         9.5
+2025-07 11060113.0 1124620.0        10.2
+2025-08  8370428.0  850282.0        10.2
+2025-09 10356979.0  868081.0         8.4
+2025-10 14214032.0 1332445.0         9.4
+2025-11 12669192.0 1074110.0         8.5
+2025-12 13372565.0 1224191.0         9.2
+
+== category_performance ==
+        category     revenue     profit  margin_pct
+     Technology 190059288.0 19577153.0        10.3
+      Furniture  51702597.0  3257153.0         6.3
+Office Supplies   2309890.0   564457.0        24.4
+
+== top_products ==
+       product        category     revenue     profit
+       Laptop      Technology 108621105.0 11170001.0
+        Phone      Technology  56710807.0  5803058.0
+         Desk       Furniture  25501881.0  1549101.0
+   Smartwatch      Technology  17161557.0  1799184.0
+ Office Chair       Furniture  14557442.0   962779.0
+    Bookshelf       Furniture  11643274.0   745273.0
+   Headphones      Technology   7565818.0   804910.0
+Printer Paper Office Supplies    926281.0   226137.0
+      Stapler Office Supplies    573778.0   142560.0
+      Pen Set Office Supplies    497309.0   119227.0
+
+== region_performance ==
+ region  orders    revenue  margin_pct
+ South    3238 80517762.0         9.5
+  West    2351 62826415.0         9.5
+ North    2375 61437637.0         9.6
+  East    1576 39289961.0         9.8
+
+== discount_vs_margin ==
+  discount_pct  orders     revenue  margin_pct
+          0.0    4332 118846334.0        15.3
+          5.0    1876  48055451.0        10.8
+         10.0    1437  36748806.0         6.4
+         20.0    1217  27506726.0        -2.7
+         30.0     678  12914458.0       -11.8
+
+== customer_concentration ==
+  top20pct_customers_share_of_revenue
+                                68.1
+
+== segment_summary ==
+     segment  customers     revenue  revenue_per_customer
+   Consumer       1237 126410418.0              102191.0
+  Corporate        666  76900058.0              115466.0
+Home Office        325  40761300.0              125419.0
+
+== repeat_customers ==
+  repeat_customer_pct
+                75.0
+
+== yoy_growth_by_quarter ==
+  qtr   rev_2024   rev_2025  yoy_pct
+   1 28871429.0 25450473.0    -11.8
+   2 27765510.0 26548911.0     -4.4
+   3 26594387.0 29787520.0     12.0
+   4 38797757.0 40255789.0      3.8
